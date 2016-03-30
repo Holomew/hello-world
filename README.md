@@ -1,2 +1,2 @@
 # hello-world
-Miscellaneous data
+Software engineer and designer in Houston, Texas.
